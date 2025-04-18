@@ -9,6 +9,8 @@ public class Main {
         System.out.println(new Date());
         System.out.println("Hello ABC");
         System.out.println("XYZZ");
+        Student student = new Student();
+        student.callStudent();
 
     }
 
