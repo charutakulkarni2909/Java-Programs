@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello Jenkins");
         System.out.println("Hey First Java Program");
         System.out.println(new Date());
+        System.out.println("Hello");
 
     }
 
